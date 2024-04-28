@@ -78,7 +78,7 @@ namespace Events.Tri
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            //logo
+            //logo pic
         }
 
         private void dba_Click(object sender, EventArgs e)
